@@ -1,6 +1,6 @@
 # 📁 Portfólio Acadêmico
 
-Este repositório contém meu portfólio acadêmico, com informações sobre minha formação, projetos, habilidades, certificações e contatos. 
+#### Este repositório contém meu portfólio acadêmico, com informações sobre minha formação, projetos, habilidades, certificações e contatos. 
 ---
 
 ## Estrutura
@@ -18,10 +18,7 @@ Este repositório contém meu portfólio acadêmico, com informações sobre min
 2. **Instale as dependencias do projeto por meio do comando`npm install`**
 3. **Rode o servidor por meio do comando `node app.js`**
 4. **Abra o navegador e acesse `http://localhost:3000`**
-5. Abra o navegador e acesse
-```bash
-http://localhost:3000
-```
+
 ------
-## Acesse meu portfólio
+## Acesse o portfólio abaixo
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](https://portfolio-jq0g.onrender.com)
