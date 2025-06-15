@@ -23,7 +23,5 @@ Este repositório contém meu portfólio acadêmico, com informações sobre min
 http://localhost:3000
 ```
 ------
-
-## Acesse o portfólio abaixo
-
-[https://portfolio-jq0g.onrender.com](https://portfolio-jq0g.onrender.com)
+## Acesse meu portfólio
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](https://portfolio-jq0g.onrender.com)
