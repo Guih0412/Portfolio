@@ -3,7 +3,7 @@
 Este repositório contém meu portfólio acadêmico, com informações sobre minha formação, projetos, habilidades, certificações e contatos. 
 ---
 
-## ☑︎ Estrutura
+## Estrutura
 
 1. **Introdução** – Apresentação pessoal e objetivos.  
 2. **Currículo** – Formação, certificações e competências.  
@@ -12,9 +12,9 @@ Este repositório contém meu portfólio acadêmico, com informações sobre min
 
 ---
 
-## Etapas para rodar o portifólio
+## Etapas para rodar o portfólio
 
-1. **Clone o repositório `https://github.com/Guih0412/Portfolio`**Add commentMore actions
+1. **Clone o repositório `https://github.com/Guih0412/Portfolio`**
 2. **Instale as dependencias do projeto por meio do comando`npm install`**
 3. **Rode o servidor por meio do comando `node app.js`**
 4. **Abra o navegador e acesse `http://localhost:3000`**
@@ -22,3 +22,6 @@ Este repositório contém meu portfólio acadêmico, com informações sobre min
 ```bash
 http://localhost:3000
 ```
+
+## Acesse o porfólio no link abaixo
+`https://portfolio-jq0g.onrender.com`
